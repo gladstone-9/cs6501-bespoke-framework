@@ -44,3 +44,7 @@ This project presents a framework for inferring sleep patterns based on online a
 - Incorporating additional data sources (e.g., mobile phone activity)  
 - Refining sleep detection algorithms with machine learning  
 - Expanding study scope to multiple participants
+
+## Paper
+For more details, refer to the full paper:  
+[**A Bespoke Framework for Inferring Sleep Patterns**](https://github.com/gladstone-9/cs6501-bespoke-framework/blob/main/sleep_inference_Gabriel_Gladstone.pdf)  
